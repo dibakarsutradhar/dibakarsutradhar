@@ -4,18 +4,20 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diamdibakardipu&suffix=%20Followers)](https://twitter.com/iamdibakardipu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dibakarsutradhar/)
 
-Hey there, I brew code with coffee. Full Stack, Game Development, Blockchain and Penetration Testing enthusiasts.
+Hey there, I brew code with coffee. Full Stack --typescript, Game Development, Blockchain and Penetration Testing enthusiasts.
 
 ## {...} My Stack
 
 ```json
 {
   "languages": ["JavaScript", "C++", "C#", "Solidity"],
-  "backend": ["NodeJS", "WT C++"],
-  "frontend": ["React", "AngularJS"],
+  "backend": ["NodeJS", "NextJS", "WT C++"],
+  "frontend": ["React", "TypeScript"],
   "databases": ["MongoDB", "Oracle", "mySQL"],
+  "state": ["Redux", "Redux-ToolKit"],
+  "blockchain": ["Hardhat", "Waffle", "Ethers", "Web3", "Truffle", "Ganache", "Metamask"],
+  "mobile-dev": ["React-Native", "Swift"],
   "game dev": ["Unreal Engine 4", "Unity3D", "Cocos2d-x"],
-  "experimenting": ["TypeScript", "BCH Whitepaper"],
   "pen-testing": ["Kali", "Wireshark", "Aircrack-NG", "Cisco Packet Tracer"]
 }
 ```
