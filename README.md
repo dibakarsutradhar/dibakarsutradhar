@@ -1,27 +1,40 @@
 # Dibakar Sutra Dhar
+Full Stack Web 3.0 Engineer
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Email-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:iamdibakardipu@gmail.com)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diamdibakardipu&suffix=%20Followers)](https://twitter.com/d1bakar)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dibakarsutradhar/)
-
-Hey there, I brew code with coffee. Full Stack --typescript, Game Development, Blockchain and Penetration Testing enthusiasts.
-
-## {...} My Stack
+## 🚀 Web3.0 Stack
+```json
+"L1, L2": ["Ethereum", "Polygon"],
+"Smart Contract": ["Solidity"],
+"Identitiy": ["Metamask"],
+"Dev Env": ["Hardhat", "Truffle", "Remix IDE"],
+"Storage": ["IPFS"],
+"API": ["Web3.js", "Ethers.js"],
+"SDK": ["Web3.js", "Ethers.js"],
+"Front-end": ["React", "TypeScript", "Next"]
+```
+## 💎 Web2.0 Stack
 
 ```json
-{
-  "languages": ["JavaScript", "C++", "C#", "Solidity"],
-  "backend": ["NodeJS", "NextJS", "WT C++"],
-  "frontend": ["React", "TypeScript"],
-  "databases": ["MongoDB", "Oracle", "mySQL"],
-  "state": ["Redux", "Redux-ToolKit"],
-  "blockchain": ["Hardhat", "Waffle", "Ethers", "Web3", "Truffle", "Ganache", "Metamask"],
-  "mobile-dev": ["React-Native", "Swift"],
-  "game dev": ["Unreal Engine 4", "Unity3D", "Cocos2d-x"],
-  "pen-testing": ["Kali", "Wireshark", "Aircrack-NG", "Cisco Packet Tracer"]
-}
+"PL": ["JavaScript", "TypeScript", "Node.js"],
+"Framework": ["React", "Next.js"],
+"CSS Framework": ["Chakra", "Material", "Theme"],
+"GraphQL": ["Apollo"],
+"State Management": ["Redux", "Redux-ToolKit"],
+"Mobile App": ["React Native", "Swift"],
+"DB": ["PostgreSQL", "Oracle", "MySQL", "MongoDB", "Redis"],
+"API/Auth": ["REST", "JSON", "JWT", "Cookie", "Bcrypt", "SHA-family"],
+"Build Tools": ["Webpack"],
+"Package Manager": ["npm", "yarn"],
+"Version Control": ["Git", "GitHub", "GitLab"]
 ```
 
-Enjoy the gif...
+## 🎮 Game Dev Stack
+
+```json
+"PL": ["C++ 14", "C#"]
+"Engine": ["Unreal Engine 4", "Unity3D", "Cocos2d-x"],
+```
+
+## Enjoy the gif...
 
 ![image](https://github.com/dibakarsutradhar/dibakarsutradhar/blob/master/dino.gif)
