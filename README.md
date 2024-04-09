@@ -1,34 +1,24 @@
 # Dibakar Sutra Dhar
-Software Engineer | Backend
+Software Engineer | Backend | web3 Security
 
-## 🚀 Web3.0 Stack
-```json
-"L1, L2": ["Ethereum", "Polygon", "Filecoin"],
-"Smart Contract": ["Solidity"],
-"Identitiy": ["Metamask"],
-"Dev Env": ["Hardhat", "Truffle", "Remix IDE", "Ganache", "Brownie"],
-"Storage": ["IPFS", "Pinata", "web3.Storage", "Dolpin"],
-"API/SDK": ["Web3.js", "Ethers.js", "Alchemy", "Infura", "The Graph"],
-```
-## 💎 Web2.0 Stack
+I have been writing scalable softwares for roughly 4 years with experience in **blockchain**, decentralized applications, **serverless**, monolithic and **microservices**.
+I write applications mostly in **JavaScript** and **Nodejs**, and these days **Rust**. 
 
-```json
-"PL": ["JavaScript", "TypeScript", "Node.js", "Python 3"],
-"Framework": ["React", "Next.js", "Django"],
-"DevOps": ["Docker", "AWS - SAM"],
-"CSS Framework": ["Chakra UI", "Material UI", "ThemeUI"],
-"GraphQL": ["Apollo"],
-"State Management": ["Redux", "Redux-ToolKit"],
-"DB": ["PostgreSQL", "Oracle", "MySQL", "MongoDB", "Redis"],
-"API/Auth": ["REST", "JSON", "JWT", "Cookie", "Bcrypt", "SHA-family"],
-"Build Tools": ["Webpack"],
-"Package Manager": ["npm", "yarn", "pip"],
-"Version Control": ["Git", "GitHub", "GitLab", "BitBucket"]
-```
+### tech stack 🚀
 
-## 🎮 Game Dev Stack
+Here's some of the tools & frameworks I've worked with -
 
-```json
+| category   |                  tools                  |
+| :--------- | :-------------------------------------: |
+| core       |   javascript, rust, python, solidity    |
+| frameworks |     nodejs, express, rocket, django     |
+| databases  |    postgreSQL, mongoDB, mySQL, redis, ipfs    |
+| serverless | aws lambda, cloudflare, netlify, vercel |
+| utils | docker, postman, dbeaver, git |
+| blockchain | evm, fvm, foundry, hardhat, metamask |
+| eips, theories | account-abstractions, defi [uniswapv2,v3, curve], amm, rollups, proxy, upgradable |
+
+
 "PL": ["C++ 14", "C#"]
 "Engine": ["Unreal Engine 4", "Unity3D", "Cocos2d-x"],
 ```
